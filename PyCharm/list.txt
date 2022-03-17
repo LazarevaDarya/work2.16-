@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Ivanov S.S.",
+        "post": "student",
+        "year": 2018
+    },
+    {
+        "name": "Lazareva D.O.",
+        "post": "student",
+        "year": 2020
+    },
+    {
+        "name": "Petrov D.E.",
+        "post": "teacher",
+        "year": 2000
+    }
+]

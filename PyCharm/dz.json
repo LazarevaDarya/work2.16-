@@ -1,0 +1,32 @@
+[
+    {
+        "surname": "Lazareva",
+        "name": "D",
+        "number": 8999,
+        "date_obj": [
+            "10",
+            "11",
+            "2002"
+        ]
+    },
+    {
+        "surname": "Sidorov",
+        "name": "G",
+        "number": 1234,
+        "date_obj": [
+            "12",
+            "12",
+            "2000"
+        ]
+    },
+    {
+        "surname": "Kolobkov",
+        "name": "V",
+        "number": 3456,
+        "date_obj": [
+            "09",
+            "09",
+            "2007"
+        ]
+    }
+]
